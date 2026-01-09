@@ -1,4 +1,4 @@
-
+S
 
 
 import React from 'react';
@@ -54,7 +54,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose }) => {
 
             <div className="grid grid-cols-1 gap-2">
               <a 
-                href="https://dovvnloading.github.io/" 
+                href="https://matt-wesney.github.io/website/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 w-full p-2.5 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 rounded-xl text-xs font-semibold text-gray-700 dark:text-gray-300 group"
