@@ -1,4 +1,3 @@
-S
 
 
 import React from 'react';
